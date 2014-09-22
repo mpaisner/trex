@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1917/branches/trex_0_5_x/extra/third_party/lsts/cfg/auv
+END
+lsts.synch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1882/branches/trex_0_5_x/extra/third_party/lsts/cfg/auv/lsts.synch.xml
+END
+navigator.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1916/branches/trex_0_5_x/extra/third_party/lsts/cfg/auv/navigator.nddl
+END
+drift_follow.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1882/branches/trex_0_5_x/extra/third_party/lsts/cfg/auv/drift_follow.nddl
+END
+path.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1882/branches/trex_0_5_x/extra/third_party/lsts/cfg/auv/path.nddl
+END
+drifter.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1882/branches/trex_0_5_x/extra/third_party/lsts/cfg/auv/drifter.nddl
+END
+drift.solver.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1882/branches/trex_0_5_x/extra/third_party/lsts/cfg/auv/drift.solver.xml
+END
+simulation.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1911/branches/trex_0_5_x/extra/third_party/lsts/cfg/auv/simulation.cfg
+END
+xtreme2.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1911/branches/trex_0_5_x/extra/third_party/lsts/cfg/auv/xtreme2.cfg
+END
+sunfish.rules.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1917/branches/trex_0_5_x/extra/third_party/lsts/cfg/auv/sunfish.rules.nddl
+END
+xplore1.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1905/branches/trex_0_5_x/extra/third_party/lsts/cfg/auv/xplore1.cfg
+END
+seacon2.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1905/branches/trex_0_5_x/extra/third_party/lsts/cfg/auv/seacon2.cfg
+END
+seacon3.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1905/branches/trex_0_5_x/extra/third_party/lsts/cfg/auv/seacon3.cfg
+END
+drift.synch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1882/branches/trex_0_5_x/extra/third_party/lsts/cfg/auv/drift.synch.xml
+END
+lsts.solver.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1882/branches/trex_0_5_x/extra/third_party/lsts/cfg/auv/lsts.solver.xml
+END
+platform.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1882/branches/trex_0_5_x/extra/third_party/lsts/cfg/auv/platform.nddl
+END
+lsts.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1917/branches/trex_0_5_x/extra/third_party/lsts/cfg/auv/lsts.nddl
+END

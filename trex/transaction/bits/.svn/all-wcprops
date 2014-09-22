@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/transaction/bits
+END
+external.hh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/transaction/bits/external.hh
+END
+transaction_fwd.hh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/transaction/bits/transaction_fwd.hh
+END
+timeline.hh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/transaction/bits/timeline.hh
+END
+reactor_graph.tcc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/transaction/bits/reactor_graph.tcc
+END
+bgl_support.hh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/transaction/bits/bgl_support.hh
+END

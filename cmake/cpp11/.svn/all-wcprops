@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1907/branches/trex_0_5_x/cmake/cpp11
+END
+has_UNIQUE_PTR.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1881/branches/trex_0_5_x/cmake/cpp11/has_UNIQUE_PTR.cpp
+END
+has_USER_DEFINED_LITERALS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1881/branches/trex_0_5_x/cmake/cpp11/has_USER_DEFINED_LITERALS.cpp
+END
+has_SHARED_PTR.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1881/branches/trex_0_5_x/cmake/cpp11/has_SHARED_PTR.cpp
+END
+has_DELETED_FUNCTIONS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1881/branches/trex_0_5_x/cmake/cpp11/has_DELETED_FUNCTIONS.cpp
+END
+has_FUNCTION_TEMPLATE_DEFAULT_ARGS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1881/branches/trex_0_5_x/cmake/cpp11/has_FUNCTION_TEMPLATE_DEFAULT_ARGS.cpp
+END
+has_NULLPTR.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1881/branches/trex_0_5_x/cmake/cpp11/has_NULLPTR.cpp
+END
+has_UNIFIED_INITIALIZATION_SYNTAX.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1881/branches/trex_0_5_x/cmake/cpp11/has_UNIFIED_INITIALIZATION_SYNTAX.cpp
+END
+has_VARIADIC_TEMPLATES.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1881/branches/trex_0_5_x/cmake/cpp11/has_VARIADIC_TEMPLATES.cpp
+END
+has_INITIALIZER_LISTS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1881/branches/trex_0_5_x/cmake/cpp11/has_INITIALIZER_LISTS.cpp
+END
+has_LAMBDAS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1881/branches/trex_0_5_x/cmake/cpp11/has_LAMBDAS.cpp
+END
+has_THREAD.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1881/branches/trex_0_5_x/cmake/cpp11/has_THREAD.cpp
+END
+has_EXPLICIT_CONVERSION_OPERATORS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1881/branches/trex_0_5_x/cmake/cpp11/has_EXPLICIT_CONVERSION_OPERATORS.cpp
+END
+has_SCOPED_ENUMS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1881/branches/trex_0_5_x/cmake/cpp11/has_SCOPED_ENUMS.cpp
+END
+has_DEFAULTED_FUNCTIONS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1881/branches/trex_0_5_x/cmake/cpp11/has_DEFAULTED_FUNCTIONS.cpp
+END
+has_NOEXCEPT.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1881/branches/trex_0_5_x/cmake/cpp11/has_NOEXCEPT.cpp
+END
+has_CONSTEXPR.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1881/branches/trex_0_5_x/cmake/cpp11/has_CONSTEXPR.cpp
+END
+has_VARIADIC_MACROS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1881/branches/trex_0_5_x/cmake/cpp11/has_VARIADIC_MACROS.cpp
+END
+cpp11.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1881/branches/trex_0_5_x/cmake/cpp11/cpp11.cmake
+END
+has_CHRONO.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1881/branches/trex_0_5_x/cmake/cpp11/has_CHRONO.cpp
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2006/branches/trex_0_5_x/extra/examples/lightswitch
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/examples/lightswitch/CMakeLists.txt
+END
+LightSwitch.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2006/branches/trex_0_5_x/extra/examples/lightswitch/LightSwitch.cc
+END
+LightSwitch.hh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/examples/lightswitch/LightSwitch.hh
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1915/branches/trex_0_5_x/extra/third_party/lsts/cfg/uav
+END
+planner_rules.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1882/branches/trex_0_5_x/extra/third_party/lsts/cfg/uav/planner_rules.nddl
+END
+navigator.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1915/branches/trex_0_5_x/extra/third_party/lsts/cfg/uav/navigator.nddl
+END
+uav_init_flower.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/lsts/cfg/uav/uav_init_flower.nddl
+END
+uav.synch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/lsts/cfg/uav/uav.synch.xml
+END
+flower.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/lsts/cfg/uav/flower.nddl
+END
+uav_init.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/lsts/cfg/uav/uav_init.nddl
+END
+spotter.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1882/branches/trex_0_5_x/extra/third_party/lsts/cfg/uav/spotter.nddl
+END
+planner_init.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1882/branches/trex_0_5_x/extra/third_party/lsts/cfg/uav/planner_init.nddl
+END
+uav.solver.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/lsts/cfg/uav/uav.solver.xml
+END
+platform.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1915/branches/trex_0_5_x/extra/third_party/lsts/cfg/uav/platform.nddl
+END

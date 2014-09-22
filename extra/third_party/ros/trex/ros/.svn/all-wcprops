@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/ros/trex/ros
+END
+ros_subscriber.hh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/ros/trex/ros/ros_subscriber.hh
+END
+ros_convert_traits.hh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/ros/trex/ros/ros_convert_traits.hh
+END
+ros_error.hh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/ros/trex/ros/ros_error.hh
+END
+ros_clock.hh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/ros/trex/ros/ros_clock.hh
+END
+ros_action.hh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/ros/trex/ros/ros_action.hh
+END
+ros_client.hh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/ros/trex/ros/ros_client.hh
+END

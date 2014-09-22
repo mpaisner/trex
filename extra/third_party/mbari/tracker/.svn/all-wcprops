@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/tracker
+END
+DoradoHandler.hh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/tracker/DoradoHandler.hh
+END
+serie.hh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/tracker/serie.hh
+END
+MessageHandler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/tracker/MessageHandler.cc
+END
+location.hh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/tracker/location.hh
+END
+DrifterTracker.hh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/tracker/DrifterTracker.hh
+END
+AMQP_connection.hh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/tracker/AMQP_connection.hh
+END
+sensor.proto
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/tracker/sensor.proto
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/tracker/CMakeLists.txt
+END
+MessageHandler.hh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/tracker/MessageHandler.hh
+END
+tracker.dox
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/tracker/tracker.dox
+END
+trex.proto
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/tracker/trex.proto
+END
+PositionHandler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/tracker/PositionHandler.cc
+END
+AMQP_queue.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/tracker/AMQP_queue.cc
+END
+point.hh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/tracker/point.hh
+END
+AMQP_listener.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/tracker/AMQP_listener.cc
+END
+DoradoHandler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/tracker/DoradoHandler.cc
+END
+platformMessage.proto
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/tracker/platformMessage.proto
+END
+location.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/tracker/location.cc
+END
+tracker_plugin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/tracker/tracker_plugin.cc
+END
+DrifterTracker.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/tracker/DrifterTracker.cc
+END
+PositionHandler.hh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/tracker/PositionHandler.hh
+END
+AMQP_queue.hh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/tracker/AMQP_queue.hh
+END
+AMQP_listener.hh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/tracker/AMQP_listener.hh
+END
+AMQP_connection.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/tracker/AMQP_connection.cc
+END

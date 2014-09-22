@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2015/branches/trex_0_5_x/trex
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2015/branches/trex_0_5_x/trex/CMakeLists.txt
+END
+version.hh.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/version.hh.in
+END

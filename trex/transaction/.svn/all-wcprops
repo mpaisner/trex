@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2006/branches/trex_0_5_x/trex/transaction
+END
+Relation.hh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/transaction/Relation.hh
+END
+TeleoReactor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1956/branches/trex_0_5_x/trex/transaction/TeleoReactor.cc
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1908/branches/trex_0_5_x/trex/transaction/CMakeLists.txt
+END
+reactor_graph.hh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1955/branches/trex_0_5_x/trex/transaction/reactor_graph.hh
+END
+Observation.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/transaction/Observation.cc
+END
+Goal.hh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/transaction/Goal.hh
+END
+LogPlayer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1956/branches/trex_0_5_x/trex/transaction/LogPlayer.cc
+END
+Predicate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/transaction/Predicate.cc
+END
+TeleoReactor_fwd.hh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1933/branches/trex_0_5_x/trex/transaction/TeleoReactor_fwd.hh
+END
+TeleoReactor.hh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1956/branches/trex_0_5_x/trex/transaction/TeleoReactor.hh
+END
+Tick.hh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/transaction/Tick.hh
+END
+Observation.hh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/transaction/Observation.hh
+END
+LogPlayer.hh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1956/branches/trex_0_5_x/trex/transaction/LogPlayer.hh
+END
+Predicate.hh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/transaction/Predicate.hh
+END
+Relation.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/transaction/Relation.cc
+END
+reactor_graph.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1956/branches/trex_0_5_x/trex/transaction/reactor_graph.cc
+END
+Goal.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/transaction/Goal.cc
+END

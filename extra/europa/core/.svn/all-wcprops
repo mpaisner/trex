@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2014/branches/trex_0_5_x/extra/europa/core
+END
+TimeConstraints.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/core/TimeConstraints.cc
+END
+DeliberationFilter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/core/DeliberationFilter.cc
+END
+ReactorConstraints.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/core/ReactorConstraints.cc
+END
+core.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2014/branches/trex_0_5_x/extra/europa/core/core.cc
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/core/CMakeLists.txt
+END
+ModeConstraints.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/core/ModeConstraints.cc
+END
+SynchronizationManager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/core/SynchronizationManager.cc
+END
+europa_helpers.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/core/europa_helpers.cc
+END
+Assembly.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2014/branches/trex_0_5_x/extra/europa/core/Assembly.cc
+END
+Schema.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/core/Schema.cc
+END
+TrexThreatDecisionPoint.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/core/TrexThreatDecisionPoint.cc
+END
+CurrentState.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1882/branches/trex_0_5_x/extra/europa/core/CurrentState.cc
+END

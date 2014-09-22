@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2015/branches/trex_0_5_x
+END
+CPackSourceConfig.cmake.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1881/branches/trex_0_5_x/CPackSourceConfig.cmake.in
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2011/branches/trex_0_5_x/CMakeLists.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1881/branches/trex_0_5_x/README
+END

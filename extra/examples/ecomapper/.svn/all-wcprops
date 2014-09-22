@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/examples/ecomapper
+END
+ecomapper_pg.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/examples/ecomapper/ecomapper_pg.cc
+END
+ros_commander.hh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/examples/ecomapper/ros_commander.hh
+END
+ros_listener.hh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/examples/ecomapper/ros_listener.hh
+END
+spline.hh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/examples/ecomapper/spline.hh
+END
+navigator.hh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/examples/ecomapper/navigator.hh
+END
+ros_commander.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/examples/ecomapper/ros_commander.cc
+END
+ros_listener.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/examples/ecomapper/ros_listener.cc
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/examples/ecomapper/CMakeLists.txt
+END
+navigator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/examples/ecomapper/navigator.cc
+END
+ros_listener_pg.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/examples/ecomapper/ros_listener_pg.cc
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2014/branches/trex_0_5_x/extra/europa
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/CMakeLists.txt
+END
+europa_plugin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/europa_plugin.cc
+END
+europa_convert.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/europa_convert.cc
+END
+EuropaReactor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1915/branches/trex_0_5_x/extra/europa/EuropaReactor.cc
+END
+Europa.dox
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/Europa.dox
+END
+EuropaEntity.hh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/EuropaEntity.hh
+END
+EuropaDomain.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/EuropaDomain.cc
+END
+EuropaReactor.hh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/EuropaReactor.hh
+END

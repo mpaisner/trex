@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2006/branches/trex_0_5_x/trex/transaction/private
+END
+graph_impl.hh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1908/branches/trex_0_5_x/trex/transaction/private/graph_impl.hh
+END
+clock_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2006/branches/trex_0_5_x/trex/transaction/private/clock_impl.cc
+END
+node_impl.hh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/transaction/private/node_impl.hh
+END
+graph_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1908/branches/trex_0_5_x/trex/transaction/private/graph_impl.cc
+END
+node_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/transaction/private/node_impl.cc
+END
+clock_impl.hh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1908/branches/trex_0_5_x/trex/transaction/private/clock_impl.hh
+END

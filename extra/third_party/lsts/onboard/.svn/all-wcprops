@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1957/branches/trex_0_5_x/extra/third_party/lsts/onboard
+END
+Platform.hh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1882/branches/trex_0_5_x/extra/third_party/lsts/onboard/Platform.hh
+END
+YoYoReactor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1957/branches/trex_0_5_x/extra/third_party/lsts/onboard/YoYoReactor.cc
+END
+ControlInterface.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/lsts/onboard/ControlInterface.cc
+END
+DummyOperator.hh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/lsts/onboard/DummyOperator.hh
+END
+SafetyBug.hh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/lsts/onboard/SafetyBug.hh
+END
+Platform.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1957/branches/trex_0_5_x/extra/third_party/lsts/onboard/Platform.cc
+END
+SharedEnvironment.hh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/lsts/onboard/SharedEnvironment.hh
+END
+DummyOperator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/lsts/onboard/DummyOperator.cc
+END
+YoYoReactor.hh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/lsts/onboard/YoYoReactor.hh
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/lsts/onboard/CMakeLists.txt
+END
+SafetyBug.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/lsts/onboard/SafetyBug.cc
+END
+ControlInterface.hh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/lsts/onboard/ControlInterface.hh
+END

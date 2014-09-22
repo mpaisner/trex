@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/shared
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/shared/CMakeLists.txt
+END
+GeoUTM.hh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/shared/GeoUTM.hh
+END
+earth_point.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/shared/earth_point.cc
+END
+GeoUTM.Constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/shared/GeoUTM.Constants.h
+END
+GeoUTM.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/shared/GeoUTM.cc
+END
+earth_point.hh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/shared/earth_point.hh
+END

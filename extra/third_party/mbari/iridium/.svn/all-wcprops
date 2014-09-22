@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/iridium
+END
+iridium_pg.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/iridium/iridium_pg.cc
+END
+DTAReactor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/iridium/DTAReactor.cc
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/iridium/CMakeLists.txt
+END
+ControlInterface.hh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/iridium/ControlInterface.hh
+END
+SbdMailer.hh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/iridium/SbdMailer.hh
+END
+ControlInterface.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/iridium/ControlInterface.cc
+END
+SbdMailer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/iridium/SbdMailer.cc
+END
+DTAReactor.hh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/iridium/DTAReactor.hh
+END

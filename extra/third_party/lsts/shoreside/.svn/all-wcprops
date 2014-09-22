@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1957/branches/trex_0_5_x/extra/third_party/lsts/shoreside
+END
+YesMan.hh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/lsts/shoreside/YesMan.hh
+END
+DTAReactor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/lsts/shoreside/DTAReactor.cc
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/lsts/shoreside/CMakeLists.txt
+END
+PositionUpdater.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1957/branches/trex_0_5_x/extra/third_party/lsts/shoreside/PositionUpdater.cc
+END
+YesMan.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/lsts/shoreside/YesMan.cc
+END
+DTAReactor.hh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/lsts/shoreside/DTAReactor.hh
+END
+PositionUpdater.hh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/lsts/shoreside/PositionUpdater.hh
+END

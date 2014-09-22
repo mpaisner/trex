@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/auv
+END
+dorado_pg.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/auv/dorado_pg.cc
+END
+DownlinkReactor.hh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/auv/DownlinkReactor.hh
+END
+DoradoReactor.hh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/auv/DoradoReactor.hh
+END
+DownlinkReactor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/auv/DownlinkReactor.cc
+END
+auv_factors.hh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/auv/auv_factors.hh
+END
+DoradoReactor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/auv/DoradoReactor.cc
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/auv/CMakeLists.txt
+END

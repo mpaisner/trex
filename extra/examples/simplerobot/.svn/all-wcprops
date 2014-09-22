@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/examples/simplerobot
+END
+SimpleRobot.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/examples/simplerobot/SimpleRobot.cc
+END
+simplerobot_pg.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/examples/simplerobot/simplerobot_pg.cc
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/examples/simplerobot/CMakeLists.txt
+END
+SimpleRobot.hh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/examples/simplerobot/SimpleRobot.hh
+END

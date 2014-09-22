@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1881/branches/trex_0_5_x/scripts
+END
+foo.json
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1881/branches/trex_0_5_x/scripts/foo.json
+END
+clean_trex_logs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1881/branches/trex_0_5_x/scripts/clean_trex_logs.sh
+END
+trex_devel.bash.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1881/branches/trex_0_5_x/scripts/trex_devel.bash.in
+END
+drifter_chaffey_1km.json
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1881/branches/trex_0_5_x/scripts/drifter_chaffey_1km.json
+END
+trex_init.bash.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1881/branches/trex_0_5_x/scripts/trex_init.bash.in
+END
+drifter_none.json
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1881/branches/trex_0_5_x/scripts/drifter_none.json
+END
+rest_goal.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1881/branches/trex_0_5_x/scripts/rest_goal.sh
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/witre.old
+END
+WitreGraph.hh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/witre.old/WitreGraph.hh
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/witre.old/CMakeLists.txt
+END
+witre.xml.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/witre.old/witre.xml.in
+END
+Witre.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/witre.old/Witre.cc
+END
+WitreServer.hh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/witre.old/WitreServer.hh
+END
+Popup.hh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/witre.old/Popup.hh
+END
+witre_pg.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/witre.old/witre_pg.cc
+END
+WitreServer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/witre.old/WitreServer.cc
+END
+Popup.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/witre.old/Popup.cc
+END
+Witre.hh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/witre.old/Witre.hh
+END

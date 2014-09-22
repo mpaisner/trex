@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/ros
+END
+ros_init.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/ros/ros_init.cc
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/ros/CMakeLists.txt
+END
+ros_timeline.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/ros/ros_timeline.cc
+END
+ros_reactor.hh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/ros/ros_reactor.hh
+END
+ros_clock.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/ros/ros_clock.cc
+END
+ros_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/ros/ros_client.cc
+END
+ros_reactor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/ros/ros_reactor.cc
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/cfg
+END
+dorado.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/cfg/dorado.nddl
+END
+dta.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/cfg/dta.nddl
+END
+vcs.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/cfg/vcs.cfg
+END
+auv.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/cfg/auv.nddl
+END
+auv_init.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/cfg/auv_init.cfg
+END
+dorado_sim.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/cfg/dorado_sim.cfg
+END
+dta.solver.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/cfg/dta.solver.xml
+END
+dorado.solver.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/cfg/dorado.solver.xml
+END
+amqp.tr.log
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/cfg/amqp.tr.log
+END
+auv_sim.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/cfg/auv_sim.nddl
+END
+utm.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/cfg/utm.nddl
+END
+dorado.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/cfg/dorado.cfg
+END
+dta.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/cfg/dta.cfg
+END
+ecohab.req
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/third_party/mbari/cfg/ecohab.req
+END

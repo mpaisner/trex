@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/utils/bits
+END
+Factory.tcc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/utils/bits/Factory.tcc
+END
+asio_signal_base.hh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/utils/bits/asio_signal_base.hh
+END
+XmlFactory.tcc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/utils/bits/XmlFactory.tcc
+END
+asio_signal_template.hh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/utils/bits/asio_signal_template.hh
+END
+SingletonWrapper.hh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/utils/bits/SingletonWrapper.hh
+END
+asio_conf.hh.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/utils/bits/asio_conf.hh.in
+END
+SingletonUse.tcc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/utils/bits/SingletonUse.tcc
+END
+SingletonServer_fwd.hh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/utils/bits/SingletonServer_fwd.hh
+END
+asio_signal_iter.hh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/utils/bits/asio_signal_iter.hh
+END
+SingletonWrapper.tcc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/utils/bits/SingletonWrapper.tcc
+END
+SingletonDummy.hh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/utils/bits/SingletonDummy.hh
+END
+Symbol.tcc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/utils/bits/Symbol.tcc
+END

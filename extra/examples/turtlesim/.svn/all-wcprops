@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/examples/turtlesim
+END
+turtlesimpub.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/examples/turtlesim/turtlesimpub.cc
+END
+pose_adapter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/examples/turtlesim/pose_adapter.cc
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/examples/turtlesim/CMakeLists.txt
+END
+turtlesimpub.hh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/examples/turtlesim/turtlesimpub.hh
+END
+logfile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/examples/turtlesim/logfile.txt
+END
+turtlesim_pg.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/examples/turtlesim/turtlesim_pg.cc
+END

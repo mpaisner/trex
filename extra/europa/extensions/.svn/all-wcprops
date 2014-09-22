@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/extensions
+END
+GoalFilter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/extensions/GoalFilter.cc
+END
+Trigonometry.hh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/extensions/Trigonometry.hh
+END
+Bind.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/extensions/Bind.cc
+END
+Numeric.hh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/extensions/Numeric.hh
+END
+extensions.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/extensions/extensions.cc
+END
+EarliestFirstFlawManager.hh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/extensions/EarliestFirstFlawManager.hh
+END
+DoNotMatchFilter.hh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/extensions/DoNotMatchFilter.hh
+END
+Numeric.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/extensions/Numeric.cc
+END
+GoalFilter.hh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/extensions/GoalFilter.hh
+END
+Trigonometry.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/extensions/Trigonometry.cc
+END
+EarliestFirstFlawManager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/extensions/EarliestFirstFlawManager.cc
+END
+Bind.hh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/extensions/Bind.hh
+END
+DoNotMatchFilter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/extensions/DoNotMatchFilter.cc
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/examples/simplerobot/cfg
+END
+simplerobot.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/examples/simplerobot/cfg/simplerobot.cfg
+END
+SimpleRobot-model.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/examples/simplerobot/cfg/SimpleRobot-model.nddl
+END
+SimpleRobot-initial-state.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/examples/simplerobot/cfg/SimpleRobot-initial-state.nddl
+END

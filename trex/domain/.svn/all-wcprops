@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1933/branches/trex_0_5_x/trex/domain
+END
+BooleanDomain.hh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/domain/BooleanDomain.hh
+END
+Variable.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/domain/Variable.cc
+END
+BasicInterval.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/domain/BasicInterval.cc
+END
+IntervalDomain.hh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/domain/IntervalDomain.hh
+END
+DomainImpl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1933/branches/trex_0_5_x/trex/domain/DomainImpl.cc
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/domain/CMakeLists.txt
+END
+EnumeratedDomain.hh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/domain/EnumeratedDomain.hh
+END
+BasicEnumerated.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/domain/BasicEnumerated.cc
+END
+Variable.hh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1933/branches/trex_0_5_x/trex/domain/Variable.hh
+END
+IntegerDomain.hh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/domain/IntegerDomain.hh
+END
+BasicInterval.hh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/domain/BasicInterval.hh
+END
+DomainVisitor.hh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/domain/DomainVisitor.hh
+END
+DomainVisitor_fwd.hh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/domain/DomainVisitor_fwd.hh
+END
+DomainBase.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/domain/DomainBase.cc
+END
+BasicEnumerated.hh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/domain/BasicEnumerated.hh
+END
+EnumDomain.hh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/domain/EnumDomain.hh
+END
+FloatDomain.hh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/domain/FloatDomain.hh
+END
+StringDomain.hh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/domain/StringDomain.hh
+END
+DomainBase.hh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/domain/DomainBase.hh
+END

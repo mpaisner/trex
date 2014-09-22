@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2013/branches/trex_0_5_x/extra/europa/cfg
+END
+Shopping-model.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/cfg/Shopping-model.nddl
+END
+bright.req
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/cfg/bright.req
+END
+turtlesim.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/cfg/turtlesim.nddl
+END
+AUV-model.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/cfg/AUV-model.nddl
+END
+Rover-model.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/cfg/Rover-model.nddl
+END
+Shopping-initial-state.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/cfg/Shopping-initial-state.nddl
+END
+lightswitch_25.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/cfg/lightswitch_25.nddl
+END
+NDDL.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/cfg/NDDL.cfg
+END
+AUV-initial-state.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/cfg/AUV-initial-state.nddl
+END
+lightswitch_26.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2006/branches/trex_0_5_x/extra/europa/cfg/lightswitch_26.nddl
+END
+test2.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/cfg/test2.nddl
+END
+Rover-initial-state.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/cfg/Rover-initial-state.nddl
+END
+Debug.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/cfg/Debug.cfg
+END
+PlannerConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/cfg/PlannerConfig.xml
+END
+test.solver.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2013/branches/trex_0_5_x/extra/europa/cfg/test.solver.xml
+END
+light.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/cfg/light.nddl
+END
+supervisor.solver.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/cfg/supervisor.solver.xml
+END
+test.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1995/branches/trex_0_5_x/extra/europa/cfg/test.nddl
+END
+turtlesim-initial.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/cfg/turtlesim-initial.nddl
+END
+supervisor.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/cfg/supervisor.nddl
+END
+TREX.nddl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1881/branches/trex_0_5_x/extra/europa/cfg/TREX.nddl
+END

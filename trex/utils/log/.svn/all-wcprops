@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1933/branches/trex_0_5_x/trex/utils/log
+END
+log_pipe.hh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/utils/log/log_pipe.hh
+END
+entry.hh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/utils/log/entry.hh
+END
+log_fwd.hh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/utils/log/log_fwd.hh
+END
+text_log.hh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1933/branches/trex_0_5_x/trex/utils/log/text_log.hh
+END
+out_file.hh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/utils/log/out_file.hh
+END
+entry.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/utils/log/entry.cc
+END
+text_log.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/utils/log/text_log.cc
+END
+stream.hh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1881/branches/trex_0_5_x/trex/utils/log/stream.hh
+END
